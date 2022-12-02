@@ -2,11 +2,15 @@
 
 ### How would you automate this process so that we can get new datasets every day?
 
+?
+
 ---
 
 ### What file format would you use to store this data?
 
 I prefer HDF5 file format for data storage. The reason is that it is convenient to work with and organize large and complex data
+
+---
 
 ### How would you evaluate the quality of the collected data?
 
